@@ -75,31 +75,31 @@ sns.countplot(x = df['country'], order = top_countries.index, hue =df['rating'] 
 
 # Summary of Findings:
 
-Summary
-•69.78% of content on Netflix consists of movies, while 30.22% are TV shows.
+## Summary
+*69.78% of content on Netflix consists of movies, while 30.22% are TV shows.
 
-•'Rajiv Chilaka' has released the highest number of shows.
+*'Rajiv Chilaka' has released the highest number of shows.
 
-•A significant portion of Netflix shows originates from the USA and India.
+*A significant portion of Netflix shows originates from the USA and India.
 
-•The highest number of shows was added in the year 2019.
+*The highest number of shows was added in the year 2019.
 
-•July and December stand out as the months when the highest number of shows are released.
+*July and December stand out as the months when the highest number of shows are released.
 
-•The most common ratings for shows on Netflix are 'TV-MA' and 'TV-14.'
+*The most common ratings for shows on Netflix are 'TV-MA' and 'TV-14.'
 
-•In the United States and India, movies are more popular than TV shows.
+*In the United States and India, movies are more popular than TV shows.
 
-•In the United Kingdom, both movies and TV shows enjoy equal popularity.
+*In the United Kingdom, both movies and TV shows enjoy equal popularity.
 
-•Conversely, in Japan, TV shows are more favored than movies.
+*Conversely, in Japan, TV shows are more favored than movies.
 
-•In the United States, most shows are rated 'TV-MA.'
+*In the United States, most shows are rated 'TV-MA.'
 
-•In India, the majority of shows have a 'TV-14' rating.
+*In India, the majority of shows have a 'TV-14' rating.
 
-•The United Kingdom sees a prevalence of 'TV-MA' ratings.
+*The United Kingdom sees a prevalence of 'TV-MA' ratings.
 
-•Finally, in Japan, the common rating for most shows is 'TV-14.
+*Finally, in Japan, the common rating for most shows is 'TV-14.
 
 
